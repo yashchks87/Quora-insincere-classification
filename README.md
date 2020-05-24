@@ -30,8 +30,11 @@ I used for data visualization Tableau, Matplotlib and Seaborn.
 
 * **Top 50 words from whole dataset train and test**
 ![Solar panel in residential and non-residential](./Visualization/top50words.png)
+* **Top 50 words from benign from non-negative questions**
 ![Solar panel in residential and non-residential](./Visualization/top50benign.png)
+* **Top 50 words from benign from negative questions**
 ![Solar panel in residential and non-residential](./Visualization/top50negative.png)
+* **Top 50 words from benign and negative questions; so common in both dataset**
 ![Solar panel in residential and non-residential](./Visualization/commonWords.png)
 
 ## Built with
