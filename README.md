@@ -32,6 +32,7 @@ I used for data visualization Tableau, Matplotlib and Seaborn.
 ![Solar panel in residential and non-residential](./Visualization/top50words.png)
 ![Solar panel in residential and non-residential](./Visualization/top50benign.png)
 ![Solar panel in residential and non-residential](./Visualization/top50negative.png)
+![Solar panel in residential and non-residential](./Visualization/commonWords.png)
 
 ## Built with
 * Python
