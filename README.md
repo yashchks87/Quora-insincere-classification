@@ -16,10 +16,10 @@ Training dataset has column as Question id, Question text and target value while
 
 | Algorithm Name/ Metric Name | Precision     | Recall        | F1 Score      | Accuracy      |      
 | --------------------------- | ------------- | ------------- | ------------- | ------------- |
-| Logistic Regression         | 76.991        | 56.448        | 59.464        | 94.078        |
-| Decision Tree Classifier    | 86.900        | 69.571        | 75.194        | 95.571        | 
-| SGD Classifier              | 76.151        | 52.330        | 52.934        | 93.898        |
-| Random Forest Classifier    | 89.915        | 69.693        | 75.915        | 95.799        |
+| Logistic Regression         | 77.232        | 56.333        | 59.329        | 94.169        |
+| Decision Tree Classifier    | 68.404        | 59.455        | 62.156        | 93.405        | 
+| SGD Classifier              | 76.007        | 52.333        | 52.960        | 93.985        |
+| Random Forest Classifier    | 74.589        | 58.729        | 62.235        | 94.080        |
 
 By looking at the above table we can say that on every metric Random Forest Classifier performed best on every level of metric. Since the accracy of model goes above 95% we are using random forest classifier as our final model. And using Random Forest classifier to predict our test data. 
 
