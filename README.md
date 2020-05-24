@@ -25,8 +25,7 @@ By looking at the above table we can say that on every metric Random Forest Clas
 
 ## Data analysis & Visualization
 I used for data visualization Tableau, Matplotlib and Seaborn.
-1. Language of questions
-2. Top most frequent 20 words
+1. Top most frequent 20 words
 
 * **Top 50 words from whole dataset train and test**
 ![Solar panel in residential and non-residential](./Visualization/top50words.png)
