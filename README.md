@@ -31,7 +31,7 @@ I used for data visualization Tableau, Matplotlib and Seaborn.
 * **Top 50 words from whole dataset train and test**
 ![Solar panel in residential and non-residential](./Visualization/top50words.png)
 ![Solar panel in residential and non-residential](./Visualization/top50benign.png)
-![Solar panel in residential and non-residential](./Visualization/top50words.png)
+![Solar panel in residential and non-residential](./Visualization/top50negative.png)
 
 ## Built with
 * Python
