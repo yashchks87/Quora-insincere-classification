@@ -48,6 +48,7 @@ I used for data visualization Tableau, Matplotlib and Seaborn.
 
 ## Authors
 * [Yash Choksi](https://www.linkedin.com/in/choksiyash/)
+* [Bita Faraji](https://www.linkedin.com/in/bita-f-a9889811b/)
 
 ## Acknowledgements
 * [Data set URL](https://www.kaggle.com/c/quora-insincere-questions-classification)
